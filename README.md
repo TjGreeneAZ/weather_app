@@ -45,7 +45,7 @@ The GUI should launch, allowing you to enter a location and view the weather dat
 
 ## Credits
 
-This application was developed by following an [ASMR Programming tutorial by TapTap](https://www.youtube.com/watch?v=8ZcEYv2ezWc) on YouTube. Modifications and improvements were made to the original guide to enhance functionality.
+This application was developed by following an [ASMR Programming tutorial by TapTap](https://www.youtube.com/watch?v=8ZcEYv2ezWc) on YouTube.
 
 ### License
 
